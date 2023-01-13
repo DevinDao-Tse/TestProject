@@ -14,7 +14,7 @@ public class TestProject {
 //		System.out.printf("","");
 		
 		add test = new add(1,1);
-		System.out.println(test.sum(1, 3));
+		System.out.println(test.sum(13, 3));
 	}
 
 }
