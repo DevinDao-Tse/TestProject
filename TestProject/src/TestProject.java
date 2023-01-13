@@ -9,9 +9,9 @@ public class TestProject {
 //		JOptionPane.showMessageDialog(null, "Hello "+ name);
 		//this is tesing for commit
 		//adding comment after 1st commit
+		//after editing java file
 		
-		
-		System.out.printf("","");
+//		System.out.printf("","");
 		
 		add test = new add(1,1);
 		System.out.println(test.sum(1, 3));
